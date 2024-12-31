@@ -1,6 +1,8 @@
 # PHP_Registration_Login
 
 # Contributors
+-**Meshack Odhiambo**- SIT/B/01-02920/2022
+-**Melvine Okello**- SIT/B/01-02598/2021
 
 # PHP User Management System Documentation
 
